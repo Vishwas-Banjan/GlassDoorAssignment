@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GlassDoor</string>
+    <string name="getData">https://raw.githubusercontent.com/vikrama/feed-json-sample/master/feed.json</string>
+    <string name="careerOpportunitiesRatingLabel">Career Opportunities Rating :</string>
+    <string name="ceoRatingLabel">CEO Rating :</string>
+    <string name="compensationAndBenefitsRatingLabel">Compensation And Benefits Rating :</string>
+    <string name="cultureAndValuesRatingLabel">Culture And Values Rating :</string>
+    <string name="seniorLeadershipRatingLabel">Senior Leadership Rating :</string>
+    <string name="workLifeBalanceRatingLabel">Work Life Balance Rating :</string>
+    <string name="overallNumericLabel">Overall Rating :</string>
+    <string name="prosLabel">Pros :</string>
+    <string name="consLabel">Cons :</string>
+    <string name="adviceLabel">Advice :</string>
+    <string name="outcomeLabel">Outcome :</string>
+    <string name="processDifficultyLabel">Process Difficulty :</string>
+    <string name="processOverallExperienceLabel">Process Overall Experience :</string>
+    <string name="processAnswerLabel">Process Answer :</string>
+    <string name="employmentTimeLabel">Employed :</string>
+    <string name="questionsLabel">Questions :</string>
+    <string name="userHandleLabel">Username :</string>
+    <string name="basePayLabel">Base Pay:</string>
+    <string name="employmentStatusLabel">Employment Status :</string>
+    <string name="payPeriodLabel">Pay Period :</string>
+    <string name="payLabel">Pay :</string>
+    <string name="meanPayLabel">Mean Pay :</string>
+    <string name="viewMoreBtn">View More</string>
+    <string name="recommendLabel">Recommed to friend :</string>
+</resources>
